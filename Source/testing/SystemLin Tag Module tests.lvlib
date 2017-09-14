@@ -8,6 +8,7 @@
 
 </Property>
 	<Item Name="subVIs" Type="Folder">
+		<Item Name="Read Test.vi" Type="VI" URL="../Read Test.vi"/>
 		<Item Name="Test Write.vi" Type="VI" URL="../Test Write.vi"/>
 	</Item>
 	<Item Name="Add Remove Test.vi" Type="VI" URL="../Add Remove Test.vi"/>
@@ -18,11 +19,10 @@
 	<Item Name="get channels test.vi" Type="VI" URL="../get channels test.vi"/>
 	<Item Name="init runtime test.vi" Type="VI" URL="../init runtime test.vi"/>
 	<Item Name="modify channel test.vi" Type="VI" URL="../modify channel test.vi"/>
-	<Item Name="Read Test.lvtest" Type="TestItem" URL="../Read Test.lvtest">
-		<Property Name="utf.test.bind" Type="Str">SystemLin Tag Module tests.lvlib:Read Test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">D9FF9B7A-ADD5-2E2E-6CE9-65672C18AE8F</Property>
+	<Item Name="Runtime Test.lvtest" Type="TestItem" URL="../Runtime Test.lvtest">
+		<Property Name="utf.test.bind" Type="Str">SystemLin Tag Module tests.lvlib:Runtime Test.vi</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">D6ECE68E-7DB1-4A98-69F1-96536545A170</Property>
 	</Item>
-	<Item Name="Read Test.vi" Type="VI" URL="../Read Test.vi"/>
 	<Item Name="Runtime Test.vi" Type="VI" URL="../Runtime Test.vi"/>
 	<Item Name="runtime to editor crosslink test.vi" Type="VI" URL="../runtime to editor crosslink test.vi"/>
 	<Item Name="serialization tests.vi" Type="VI" URL="../serialization tests.vi"/>

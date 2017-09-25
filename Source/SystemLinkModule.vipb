@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2017-09-15 02:28:38" Creator="Daniel" Comments="" ID="87211e3d66741e6db374ef7c71f026c5">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2017-09-25 18:22:25" Creator="Daniel" Comments="" ID="97c2979795a151119d8802debb7c8cba">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_systemlink</Package_File_Name>
-    <Library_Version>1.0.0.8</Library_Version>
+    <Library_Version>1.0.0.11</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\releases\SystemLink module</Library_Output_Folder>

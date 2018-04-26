@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2018-03-29 14:49:14" Creator="Daniel" Comments="" ID="9b3afa1308a4b4469b18b254d8e4a179">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2018-04-26 18:08:06" Creator="Daniel" Comments="" ID="238a044449618dd382ce8aed37f9d89d">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_systemlink</Package_File_Name>
     <Library_Version>1.0.0.11</Library_Version>
@@ -108,9 +108,6 @@
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace/>
       </Namespace_Overrides>
-      <Exclusions>
-        <Path>testing</Path>
-      </Exclusions>
     </Source_Files>
     <License_Agreement_Filepath>..\LICENSE</License_Agreement_Filepath>
     <Licensing_and_Activation>

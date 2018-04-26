@@ -18,7 +18,7 @@
 	<Item Name="Add Remove Test.vi" Type="VI" URL="../Add Remove Test.vi"/>
 	<Item Name="config crosslink test.lvtest" Type="TestItem" URL="../config crosslink test.lvtest">
 		<Property Name="utf.test.bind" Type="Str">SystemLin Tag Module tests.lvlib:config crosslink test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">6ED794CA-DEFE-8772-D785-DA3BE220B92C</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">E38E0B51-24EC-2412-5C4E-83C8A0B5989D</Property>
 	</Item>
 	<Item Name="config crosslink test.vi" Type="VI" URL="../config crosslink test.vi"/>
 	<Item Name="Create Test Configuration.vi" Type="VI" URL="../Create Test Configuration.vi"/>
@@ -30,19 +30,19 @@
 	<Item Name="multitest.vi" Type="VI" URL="../multitest.vi"/>
 	<Item Name="Runtime Test.lvtest" Type="TestItem" URL="../Runtime Test.lvtest">
 		<Property Name="utf.test.bind" Type="Str">SystemLin Tag Module tests.lvlib:Runtime Test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">318F4E5D-800C-16B2-9062-850DA2D91481</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">91F3AC10-A985-44D4-1319-B61F3E94027A</Property>
 	</Item>
 	<Item Name="Runtime Test.vi" Type="VI" URL="../Runtime Test.vi"/>
 	<Item Name="runtime to editor crosslink test.vi" Type="VI" URL="../runtime to editor crosslink test.vi"/>
 	<Item Name="serialization tests.vi" Type="VI" URL="../serialization tests.vi"/>
 	<Item Name="To and From CSV.lvtest" Type="TestItem" URL="../To and From CSV.lvtest">
 		<Property Name="utf.test.bind" Type="Str">SystemLin Tag Module tests.lvlib:To and From CSV.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">6D320845-4226-F6E4-61B2-DB4F7618F86C</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">D7277DB5-7E96-1C98-81C5-E4F5DB1260FC</Property>
 	</Item>
 	<Item Name="To and From CSV.vi" Type="VI" URL="../To and From CSV.vi"/>
 	<Item Name="To and From String Array.lvtest" Type="TestItem" URL="../To and From String Array.lvtest">
 		<Property Name="utf.test.bind" Type="Str">SystemLin Tag Module tests.lvlib:To and From String Array.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">74F8C2E4-26F8-BDCC-20BB-56597A992E1D</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">D816D7B6-1C3A-2440-707B-3E7F283BFC35</Property>
 	</Item>
 	<Item Name="To and From String Array.vi" Type="VI" URL="../To and From String Array.vi"/>
 	<Item Name="ToTable Test.vi" Type="VI" URL="../ToTable Test.vi"/>

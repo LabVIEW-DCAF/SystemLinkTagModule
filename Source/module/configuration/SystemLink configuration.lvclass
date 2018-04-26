@@ -243,22 +243,22 @@
 		</Item>
 	</Item>
 	<Item Name="Classification to Display Permissions.vi" Type="VI" URL="../Classification to Display Permissions.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;Q!!!!"!!%!!!!?!$R!!!!!!!!!!)?5XFT&gt;'6N4'FO;S"F:'FU&lt;X)A&lt;G^E:3ZM&gt;G.M98.T$X"F=GVJ=X.J&lt;WZT,G.U&lt;!""1"=!!B23:7&amp;E)':S&lt;WUA5XFT&gt;'6N4'FO;R.8=GFU:3"U&lt;S"4?8.U:7V-;7ZL!!!,='6S&lt;7FT=WFP&lt;H-!G!$R!!!!!!!!!!)46%*.)'.I97ZO:7QO&lt;(:D&lt;'&amp;T=RJD;'&amp;O&lt;G6M)'.M98.T;7:J9W&amp;U;7^O,G.U&lt;!"B1"9!"!JJ&lt;H"V&gt;#"E982B#W^V&gt;("V&gt;#"E982B&amp;("S&lt;W.F=X.J&lt;G=A='&amp;S97VF&gt;'6S%8"S&lt;W.F=X.J&lt;G=A=G6T&gt;7RU!":D;'&amp;O&lt;G6M)'.M98.T;7:J9W&amp;U;7^O!!"5!0!!$!!!!!!!!!!"!!!!!!!!!!!!!!!!!!!!!A)!!(A!!!!!!!!!!!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!%!!!!!!"!!-!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;S!!!!"!!%!!!!?A$R!!!!!!!!!!)A5XFT&gt;'6N4'FO;S"D&lt;WZG;7&gt;V=G&amp;U;7^O,GRW9WRB=X-0='6S&lt;7FT=WFP&lt;H-O9X2M!%&amp;!&amp;Q!#&amp;&amp;*F971A:H*P&lt;3"4?8.U:7V-;7ZL%V&gt;S;82F)(2P)&amp;.Z=X2F&lt;5RJ&lt;GM!!!NQ:8*N;8.T;7^O=Q#9!0%!!!!!!!!!!B.51EUA9WBB&lt;GZF&lt;#ZM&gt;G.M98.T'G.I97ZO:7QA9WRB=X.J:GFD982J&lt;WYO9X2M!'&amp;!&amp;A!%#GFO=(6U)'2B&gt;'%,&lt;X6U=(6U)'2B&gt;'%5=(*P9W6T=WFO:S"Q98*B&lt;76U:8)2=(*P9W6T=WFO:S"S:8.V&lt;(1!&amp;G.I97ZO:7QA9WRB=X.J:GFD982J&lt;WY!!&amp;1!]!!-!!!!!!!!!!%!!!!!!!!!!!!!!!!!!!!#!A!!?!!!!!!!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1!!!!!!%!!Q!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1074278912</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1350574592</Property>
 	</Item>
 	<Item Name="Display Permission to Classification.vi" Type="VI" URL="../Display Permission to Classification.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;Y!!!!"!!%!!!!G!$R!!!!!!!!!!)46%*.)'.I97ZO:7QO&lt;(:D&lt;'&amp;T=RJD;'&amp;O&lt;G6M)'.M98.T;7:J9W&amp;U;7^O,G.U&lt;!"B1"9!"!JJ&lt;H"V&gt;#"E982B#W^V&gt;("V&gt;#"E982B&amp;("S&lt;W.F=X.J&lt;G=A='&amp;S97VF&gt;'6S%8"S&lt;W.F=X.J&lt;G=A=G6T&gt;7RU!":D;'&amp;O&lt;G6M)'.M98.T;7:J9W&amp;U;7^O!!#!!0%!!!!!!!!!!BZ4?8.U:7V-;7ZL)'6E;82P=C"O&lt;W2F,GRW9WRB=X-0='6S&lt;7FT=WFP&lt;H-O9X2M!%F!&amp;Q!#&amp;&amp;*F971A:H*P&lt;3"4?8.U:7V-;7ZL%V&gt;S;82F)(2P)&amp;.Z=X2F&lt;5RJ&lt;GM!!".E;8.Q&lt;'&amp;Z)("F=GVJ=X.J&lt;WZT!&amp;1!]!!-!!!!!!!!!!%!!!!!!!!!!!!!!!!!!!!#!A!!?!!!!!!!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1!!!!!!%!!Q!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;[!!!!"!!%!!!!G!$R!!!!!!!!!!)46%*.)'.I97ZO:7QO&lt;(:D&lt;'&amp;T=RJD;'&amp;O&lt;G6M)'.M98.T;7:J9W&amp;U;7^O,G.U&lt;!"B1"9!"!JJ&lt;H"V&gt;#"E982B#W^V&gt;("V&gt;#"E982B&amp;("S&lt;W.F=X.J&lt;G=A='&amp;S97VF&gt;'6S%8"S&lt;W.F=X.J&lt;G=A=G6T&gt;7RU!":D;'&amp;O&lt;G6M)'.M98.T;7:J9W&amp;U;7^O!!##!0%!!!!!!!!!!C"4?8.U:7V-;7ZL)'.P&lt;G:J:X6S982J&lt;WYO&lt;(:D&lt;'&amp;T=Q^Q:8*N;8.T;7^O=SZD&gt;'Q!35!8!!)55G6B:#"G=G^N)&amp;.Z=X2F&lt;5RJ&lt;GM46X*J&gt;'5A&gt;']A5XFT&gt;'6N4'FO;Q!!%W2J=X"M98EA='6S&lt;7FT=WFP&lt;H-!6!$Q!!Q!!!!!!!!!!1!!!!!!!!!!!!!!!!!!!!)#!!"Y!!!!!!!!!!!!!!!!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"!!!!!!!1!$!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1350574592</Property>
 	</Item>
 	<Item Name="Permissions Enum.ctl" Type="VI" URL="../Permissions Enum.ctl">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"X!!!!!1"P!0%!!!!!!!!!!C"4?8.U:7V-;7ZL)'.P&lt;G:J:X6S982J&lt;WYO&lt;(:D&lt;'&amp;T=R21:8*N;8.T;7^O=S"&amp;&lt;H6N,G.U&lt;!!R1"9!!AR3:7&amp;E)':S&lt;WUA3&amp;=,6X*J&gt;'5A&gt;']A3&amp;=!!!N1:8*N;8.T;7^O=Q!"!!!!!!!!</Property>
@@ -268,6 +268,15 @@
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1074278912</Property>
+	</Item>
+	<Item Name="permissions.ctl" Type="VI" URL="../permissions.ctl">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#'!!!!!1"_!0%!!!!!!!!!!C"4?8.U:7V-;7ZL)'.P&lt;G:J:X6S982J&lt;WYO&lt;(:D&lt;'&amp;T=Q^Q:8*N;8.T;7^O=SZD&gt;'Q!25!8!!)55G6B:#"G=G^N)&amp;.Z=X2F&lt;5RJ&lt;GM46X*J&gt;'5A&gt;']A5XFT&gt;'6N4'FO;Q!!$H:J:8=A:'FS:7.U;7^O!!!"!!!!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">1048576</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
 	</Item>
 	<Item Name="SysLink Mapping.ctl" Type="VI" URL="../SysLink Mapping.ctl">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$X!!!!"!"6!0%!!!!!!!!!!B2/33"4;XFM;7ZF)&amp;2B:SZM&gt;GRJ9AR%982B6(FQ:3ZD&gt;'Q!+U!8!!-'2'^V9GRF"UFO&gt;'6H:8)'5X2S;7ZH!!FE982B)(2Z='5!-%"Q!"Y!!"A74EEA5WNZ&lt;'FO:3"597=O&lt;(:D&lt;'&amp;T=Q!!$62B:S"3:7:F=G6O9W5!#U!$!!6*&lt;G2F?!"@!0%!!!!!!!!!!CJ4?8.U:7V-;7YA6'&amp;H)%VP:(6M:3"D&lt;WZG;7&gt;V=G&amp;U;7^O,GRW9WRB=X-45XFT4'FO;S".98"Q;7ZH,G.U&lt;!!91&amp;!!!Q!!!!%!!A&gt;.98"Q;7ZH!!%!!Q!!!!!</Property>

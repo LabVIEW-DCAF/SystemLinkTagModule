@@ -1,0 +1,14 @@
+Double input data,Read from SystemLink,Double,Double input data
+Single input data,Read from SystemLink,Single,Single input data
+I32 input data,Read from SystemLink,I32,I32 input data
+I16 input data,Read from SystemLink,I16,I16 input data
+I8 input data,Read from SystemLink,I8,I8 input data
+Boolean input data,Read from SystemLink,Boolean,Boolean input data
+String input data,Read from SystemLink,String,String input data
+Double output data,Write to SystemLink,Double,Double output data
+Single output data,Write to SystemLink,Single,Single output data
+I32 output data,Write to SystemLink,I32,I32 output data
+I16 output data,Write to SystemLink,I16,I16 output data
+I8 output data,Write to SystemLink,I8,I8 output data
+Boolean output data,Write to SystemLink,Boolean,Boolean output data
+String output data,Write to SystemLink,String,String output data

@@ -251,6 +251,15 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1350574592</Property>
 	</Item>
+	<Item Name="create default alias.vi" Type="VI" URL="../create default alias.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;&amp;!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!":!-0````].:'6G986M&gt;#"B&lt;'FB=Q!_1(!!(A!!)C"4?8.U:7V-;7ZL)'.P&lt;G:J:X6S982J&lt;WYO&lt;(:D&lt;'&amp;T=Q!!%7.P&lt;G:J:X6S982J&lt;WYA&lt;X6U!":!5!!$!!!!!1!##'6S=G^S)'FO!!!_1(!!(A!!)C"4?8.U:7V-;7ZL)'.P&lt;G:J:X6S982J&lt;WYO&lt;(:D&lt;'&amp;T=Q!!%'.P&lt;G:J:X6S982J&lt;WYA;7Y!!&amp;1!]!!-!!-!"!!&amp;!!9!"!!%!!1!"!!(!!1!"!!)!A!!?!!!$1A!!!!!!!!*!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!!!!!#1!!!!!!%!#1!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
+	</Item>
 	<Item Name="Display Permission to Classification.vi" Type="VI" URL="../Display Permission to Classification.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;[!!!!"!!%!!!!G!$R!!!!!!!!!!)46%*.)'.I97ZO:7QO&lt;(:D&lt;'&amp;T=RJD;'&amp;O&lt;G6M)'.M98.T;7:J9W&amp;U;7^O,G.U&lt;!"B1"9!"!JJ&lt;H"V&gt;#"E982B#W^V&gt;("V&gt;#"E982B&amp;("S&lt;W.F=X.J&lt;G=A='&amp;S97VF&gt;'6S%8"S&lt;W.F=X.J&lt;G=A=G6T&gt;7RU!":D;'&amp;O&lt;G6M)'.M98.T;7:J9W&amp;U;7^O!!##!0%!!!!!!!!!!C"4?8.U:7V-;7ZL)'.P&lt;G:J:X6S982J&lt;WYO&lt;(:D&lt;'&amp;T=Q^Q:8*N;8.T;7^O=SZD&gt;'Q!35!8!!)55G6B:#"G=G^N)&amp;.Z=X2F&lt;5RJ&lt;GM46X*J&gt;'5A&gt;']A5XFT&gt;'6N4'FO;Q!!%W2J=X"M98EA='6S&lt;7FT=WFP&lt;H-!6!$Q!!Q!!!!!!!!!!1!!!!!!!!!!!!!!!!!!!!)#!!"Y!!!!!!!!!!!!!!!!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"!!!!!!!1!$!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>

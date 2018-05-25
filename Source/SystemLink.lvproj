@@ -21,10 +21,28 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Unit Test Framework tests" Type="Folder">
+			<Item Name="config crosslink test.lvtest" Type="TestItem" URL="../testing/config crosslink test.lvtest">
+				<Property Name="utf.test.bind" Type="Str">SystemLink Tag Module tests.lvlib:config crosslink test.vi</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">15675B7F-1A51-0AA7-73BC-F3232D19C547</Property>
+			</Item>
+			<Item Name="Runtime Test.lvtest" Type="TestItem" URL="../testing/Runtime Test.lvtest">
+				<Property Name="utf.test.bind" Type="Str">SystemLink Tag Module tests.lvlib:Runtime Test.vi</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">66CAFC2D-B630-0B86-81EC-F27AA0FBA72E</Property>
+			</Item>
+			<Item Name="To and From CSV.lvtest" Type="TestItem" URL="../testing/To and From CSV.lvtest">
+				<Property Name="utf.test.bind" Type="Str">SystemLink Tag Module tests.lvlib:To and From CSV.vi</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">8CBB6278-78B1-F263-AC5C-0E2CAF9148B3</Property>
+			</Item>
+			<Item Name="To and From String Array.lvtest" Type="TestItem" URL="../testing/To and From String Array.lvtest">
+				<Property Name="utf.test.bind" Type="Str">SystemLink Tag Module tests.lvlib:To and From String Array.vi</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">5C2095BB-352E-3BD5-2CDF-68005E9373D4</Property>
+			</Item>
+		</Item>
 		<Item Name="SystemLink editor node.lvclass" Type="LVClass" URL="../editor node/SystemLink editor node.lvclass"/>
 		<Item Name="SystemLink configuration.lvclass" Type="LVClass" URL="../module/configuration/SystemLink configuration.lvclass"/>
 		<Item Name="SystemLink runtime.lvclass" Type="LVClass" URL="../module/execution/SystemLink runtime.lvclass"/>
-		<Item Name="SystemLin Tag Module tests.lvlib" Type="Library" URL="../testing/SystemLin Tag Module tests.lvlib"/>
+		<Item Name="SystemLink Tag Module tests.lvlib" Type="Library" URL="../testing/SystemLink Tag Module tests.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="AMC.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/AMC/AMC.lvlib"/>

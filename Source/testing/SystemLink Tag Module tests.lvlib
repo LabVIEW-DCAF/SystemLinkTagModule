@@ -9,41 +9,27 @@
 </Property>
 	<Item Name="Manual" Type="Folder">
 		<Item Name="Host Main.vi" Type="VI" URL="../Host Main.vi"/>
+		<Item Name="multitest.vi" Type="VI" URL="../multitest.vi"/>
+		<Item Name="ToTable Test.vi" Type="VI" URL="../ToTable Test.vi"/>
 	</Item>
 	<Item Name="subVIs" Type="Folder">
 		<Item Name="Host Module Includes.vi" Type="VI" URL="../Host Module Includes.vi"/>
 		<Item Name="Read Test.vi" Type="VI" URL="../Read Test.vi"/>
 		<Item Name="Test Write.vi" Type="VI" URL="../Test Write.vi"/>
 	</Item>
-	<Item Name="Add Remove Test.vi" Type="VI" URL="../Add Remove Test.vi"/>
-	<Item Name="config crosslink test.lvtest" Type="TestItem" URL="../config crosslink test.lvtest">
-		<Property Name="utf.test.bind" Type="Str">SystemLin Tag Module tests.lvlib:config crosslink test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">CC1525D0-10D9-D6A3-B825-73BD5684A794</Property>
+	<Item Name="Unit Test" Type="Folder">
+		<Item Name="Add Remove Test.vi" Type="VI" URL="../Add Remove Test.vi"/>
+		<Item Name="config crosslink test.vi" Type="VI" URL="../config crosslink test.vi"/>
+		<Item Name="Create Test Configuration.vi" Type="VI" URL="../Create Test Configuration.vi"/>
+		<Item Name="Duplicate Name Error Test.vi" Type="VI" URL="../Duplicate Name Error Test.vi"/>
+		<Item Name="Find Duplicate Test.vi" Type="VI" URL="../Find Duplicate Test.vi"/>
+		<Item Name="get channels test.vi" Type="VI" URL="../get channels test.vi"/>
+		<Item Name="init runtime test.vi" Type="VI" URL="../init runtime test.vi"/>
+		<Item Name="modify channel test.vi" Type="VI" URL="../modify channel test.vi"/>
+		<Item Name="Runtime Test.vi" Type="VI" URL="../Runtime Test.vi"/>
+		<Item Name="runtime to editor crosslink test.vi" Type="VI" URL="../runtime to editor crosslink test.vi"/>
+		<Item Name="serialization tests.vi" Type="VI" URL="../serialization tests.vi"/>
+		<Item Name="To and From CSV.vi" Type="VI" URL="../To and From CSV.vi"/>
+		<Item Name="To and From String Array.vi" Type="VI" URL="../To and From String Array.vi"/>
 	</Item>
-	<Item Name="config crosslink test.vi" Type="VI" URL="../config crosslink test.vi"/>
-	<Item Name="Create Test Configuration.vi" Type="VI" URL="../Create Test Configuration.vi"/>
-	<Item Name="Duplicate Name Error Test.vi" Type="VI" URL="../Duplicate Name Error Test.vi"/>
-	<Item Name="Find Duplicate Test.vi" Type="VI" URL="../Find Duplicate Test.vi"/>
-	<Item Name="get channels test.vi" Type="VI" URL="../get channels test.vi"/>
-	<Item Name="init runtime test.vi" Type="VI" URL="../init runtime test.vi"/>
-	<Item Name="modify channel test.vi" Type="VI" URL="../modify channel test.vi"/>
-	<Item Name="multitest.vi" Type="VI" URL="../multitest.vi"/>
-	<Item Name="Runtime Test.lvtest" Type="TestItem" URL="../Runtime Test.lvtest">
-		<Property Name="utf.test.bind" Type="Str">SystemLin Tag Module tests.lvlib:Runtime Test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">FD18D201-3F18-0375-AC35-00B7D9A8F172</Property>
-	</Item>
-	<Item Name="Runtime Test.vi" Type="VI" URL="../Runtime Test.vi"/>
-	<Item Name="runtime to editor crosslink test.vi" Type="VI" URL="../runtime to editor crosslink test.vi"/>
-	<Item Name="serialization tests.vi" Type="VI" URL="../serialization tests.vi"/>
-	<Item Name="To and From CSV.lvtest" Type="TestItem" URL="../To and From CSV.lvtest">
-		<Property Name="utf.test.bind" Type="Str">SystemLin Tag Module tests.lvlib:To and From CSV.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">FF90AEBA-88C5-19CE-6825-A1BE15457FA2</Property>
-	</Item>
-	<Item Name="To and From CSV.vi" Type="VI" URL="../To and From CSV.vi"/>
-	<Item Name="To and From String Array.lvtest" Type="TestItem" URL="../To and From String Array.lvtest">
-		<Property Name="utf.test.bind" Type="Str">SystemLin Tag Module tests.lvlib:To and From String Array.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">378A2262-565E-1E88-94D6-D83BD6B04323</Property>
-	</Item>
-	<Item Name="To and From String Array.vi" Type="VI" URL="../To and From String Array.vi"/>
-	<Item Name="ToTable Test.vi" Type="VI" URL="../ToTable Test.vi"/>
 </Library>

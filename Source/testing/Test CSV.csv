@@ -5,10 +5,12 @@ I16 input data 1,Read from SystemLink,I16,
 I8 input data 1,Read from SystemLink,I8,I8 input data 1
 Boolean input data 1,Read from SystemLink,Boolean,
 String input data 1,Read from SystemLink,String,String input data 1
-Double output data 1,Write to SystemLink,Double,
-Single output data 1,Write to SystemLink,Single,Single output data 1
-I32 output data 1,Write to SystemLink,I32,
-I16 output data 1,Write to SystemLink,I16,I16 output data 1
-I8 output data 1,Write to SystemLink,I8,
-Boolean output data 1,Write to SystemLink,Boolean,Boolean output data 1
-String output data 1,Write to SystemLink,String,
+U64 input data 1,Read from SystemLink,U64,
+Double output data 1,Write to SystemLink,Double,Double output data 1
+Single output data 1,Write to SystemLink,Single,
+I32 output data 1,Write to SystemLink,I32,I32 output data 1
+I16 output data 1,Write to SystemLink,I16,
+I8 output data 1,Write to SystemLink,I8,I8 output data 1
+Boolean output data 1,Write to SystemLink,Boolean,
+String output data 1,Write to SystemLink,String,String output data 1
+U64 output data 1,Write to SystemLink,U64,

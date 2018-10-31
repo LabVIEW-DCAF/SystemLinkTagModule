@@ -13,6 +13,7 @@
 		<Item Name="ToTable Test.vi" Type="VI" URL="../ToTable Test.vi"/>
 	</Item>
 	<Item Name="subVIs" Type="Folder">
+		<Item Name="Create Test Configuration.vi" Type="VI" URL="../Create Test Configuration.vi"/>
 		<Item Name="Host Module Includes.vi" Type="VI" URL="../Host Module Includes.vi"/>
 		<Item Name="Read Test.vi" Type="VI" URL="../Read Test.vi"/>
 		<Item Name="Test Write.vi" Type="VI" URL="../Test Write.vi"/>
@@ -20,9 +21,7 @@
 	<Item Name="Unit Test" Type="Folder">
 		<Item Name="Add Remove Test.vi" Type="VI" URL="../Add Remove Test.vi"/>
 		<Item Name="config crosslink test.vi" Type="VI" URL="../config crosslink test.vi"/>
-		<Item Name="Create Test Configuration.vi" Type="VI" URL="../Create Test Configuration.vi"/>
 		<Item Name="Duplicate Name Error Test.vi" Type="VI" URL="../Duplicate Name Error Test.vi"/>
-		<Item Name="Find Duplicate Test.vi" Type="VI" URL="../Find Duplicate Test.vi"/>
 		<Item Name="get channels test.vi" Type="VI" URL="../get channels test.vi"/>
 		<Item Name="init runtime test.vi" Type="VI" URL="../init runtime test.vi"/>
 		<Item Name="modify channel test.vi" Type="VI" URL="../modify channel test.vi"/>

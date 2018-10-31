@@ -23,6 +23,22 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Unit Test Framework tests" Type="Folder">
+			<Item Name="serialization tests.lvtest" Type="TestItem" URL="../testing/serialization tests.lvtest">
+				<Property Name="utf.test.bind" Type="Str">SystemLink Tag Module tests.lvlib:serialization tests.vi</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">A8B819B1-AF60-322F-FA79-94E0A683D03A</Property>
+			</Item>
+			<Item Name="init runtime test.lvtest" Type="TestItem" URL="../testing/init runtime test.lvtest">
+				<Property Name="utf.test.bind" Type="Str">SystemLink Tag Module tests.lvlib:init runtime test.vi</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">B0127B36-E0C5-0A98-48F4-8192565E680D</Property>
+			</Item>
+			<Item Name="get channels test.lvtest" Type="TestItem" URL="../testing/get channels test.lvtest">
+				<Property Name="utf.test.bind" Type="Str">SystemLink Tag Module tests.lvlib:get channels test.vi</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">FA43DD0F-ED75-9662-794C-94D3C119CE73</Property>
+			</Item>
+			<Item Name="Add Remove Test.lvtest" Type="TestItem" URL="../testing/Add Remove Test.lvtest">
+				<Property Name="utf.test.bind" Type="Str">SystemLink Tag Module tests.lvlib:Add Remove Test.vi</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">D8827204-F989-DB27-DFD5-963FD04C624F</Property>
+			</Item>
 			<Item Name="config crosslink test.lvtest" Type="TestItem" URL="../testing/config crosslink test.lvtest">
 				<Property Name="utf.test.bind" Type="Str">SystemLink Tag Module tests.lvlib:config crosslink test.vi</Property>
 				<Property Name="utf.vector.test.bind" Type="Str">15675B7F-1A51-0AA7-73BC-F3232D19C547</Property>
@@ -38,6 +54,18 @@
 			<Item Name="To and From String Array.lvtest" Type="TestItem" URL="../testing/To and From String Array.lvtest">
 				<Property Name="utf.test.bind" Type="Str">SystemLink Tag Module tests.lvlib:To and From String Array.vi</Property>
 				<Property Name="utf.vector.test.bind" Type="Str">5C2095BB-352E-3BD5-2CDF-68005E9373D4</Property>
+			</Item>
+			<Item Name="Duplicate Name Error Test.lvtest" Type="TestItem" URL="../testing/Duplicate Name Error Test.lvtest">
+				<Property Name="utf.test.bind" Type="Str">SystemLink Tag Module tests.lvlib:Duplicate Name Error Test.vi</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">FB01C5FE-175C-41DB-BF9B-48F4764A97CF</Property>
+			</Item>
+			<Item Name="modify channel test.lvtest" Type="TestItem" URL="../testing/modify channel test.lvtest">
+				<Property Name="utf.test.bind" Type="Str">SystemLink Tag Module tests.lvlib:modify channel test.vi</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">A643EAF3-C639-4F9B-55B8-3DCBA4632031</Property>
+			</Item>
+			<Item Name="runtime to editor crosslink test.lvtest" Type="TestItem" URL="../testing/runtime to editor crosslink test.lvtest">
+				<Property Name="utf.test.bind" Type="Str">SystemLink Tag Module tests.lvlib:runtime to editor crosslink test.vi</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">D61BB283-BB7C-E846-35FD-229FA6A9E8D1</Property>
 			</Item>
 		</Item>
 		<Item Name="SystemLink editor node.lvclass" Type="LVClass" URL="../editor node/SystemLink editor node.lvclass"/>

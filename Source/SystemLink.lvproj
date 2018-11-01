@@ -67,6 +67,10 @@
 				<Property Name="utf.test.bind" Type="Str">SystemLink Tag Module tests.lvlib:runtime to editor crosslink test.vi</Property>
 				<Property Name="utf.vector.test.bind" Type="Str">D61BB283-BB7C-E846-35FD-229FA6A9E8D1</Property>
 			</Item>
+			<Item Name="Load Old Configurations.lvtest" Type="TestItem" URL="../testing/Load Old Configurations.lvtest">
+				<Property Name="utf.test.bind" Type="Str">SystemLink Tag Module tests.lvlib:Load Old Configurations.vi</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">880ED758-8BE1-18D7-AD18-CA3F3D1ECE8E</Property>
+			</Item>
 		</Item>
 		<Item Name="SystemLink editor node.lvclass" Type="LVClass" URL="../editor node/SystemLink editor node.lvclass"/>
 		<Item Name="SystemLink configuration.lvclass" Type="LVClass" URL="../module/configuration/SystemLink configuration.lvclass"/>

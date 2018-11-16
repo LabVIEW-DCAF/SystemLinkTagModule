@@ -1,16 +1,24 @@
-Double input data 1,Read from SystemLink,Double,Double input data 1
+Double input data 0,Read from SystemLink,Double,Double input data 0
 Single input data 1,Read from SystemLink,Single,
-I32 input data 1,Read from SystemLink,I32,I32 input data 1
-I16 input data 1,Read from SystemLink,I16,
-I8 input data 1,Read from SystemLink,I8,I8 input data 1
-Boolean input data 1,Read from SystemLink,Boolean,
-String input data 1,Read from SystemLink,String,String input data 1
-U64 input data 1,Read from SystemLink,U64,
-Double output data 1,Write to SystemLink,Double,Double output data 1
+I32 input data 2,Read from SystemLink,I32,I32 input data 2
+I16 input data 3,Read from SystemLink,I16,
+I8 input data 4,Read from SystemLink,I8,I8 input data 4
+U64 input data 5,Read from SystemLink,U64,
+U32 input data 6,Read from SystemLink,U32,U32 input data 6
+U16 input data 7,Read from SystemLink,U16,
+U8 input data 8,Read from SystemLink,U8,U8 input data 8
+Boolean input data 9,Read from SystemLink,Boolean,
+String input data 10,Read from SystemLink,String,String input data 10
+Double input data 11,Read from SystemLink,Timestamp,
+Double output data 0,Write to SystemLink,Double,Double output data 0
 Single output data 1,Write to SystemLink,Single,
-I32 output data 1,Write to SystemLink,I32,I32 output data 1
-I16 output data 1,Write to SystemLink,I16,
-I8 output data 1,Write to SystemLink,I8,I8 output data 1
-Boolean output data 1,Write to SystemLink,Boolean,
-String output data 1,Write to SystemLink,String,String output data 1
-U64 output data 1,Write to SystemLink,U64,
+I32 output data 2,Write to SystemLink,I32,I32 output data 2
+I16 output data 3,Write to SystemLink,I16,
+I8 output data 4,Write to SystemLink,I8,I8 output data 4
+U64 output data 5,Write to SystemLink,U64,
+U32 output data 6,Write to SystemLink,U32,U32 output data 6
+U16 output data 7,Write to SystemLink,U16,
+U8 output data 8,Write to SystemLink,U8,U8 output data 8
+Boolean output data 9,Write to SystemLink,Boolean,
+String output data 10,Write to SystemLink,String,String output data 10
+Double output data 11,Write to SystemLink,Timestamp,

@@ -71,6 +71,10 @@
 				<Property Name="utf.test.bind" Type="Str">SystemLink Tag Module tests.lvlib:Load Old Configurations.vi</Property>
 				<Property Name="utf.vector.test.bind" Type="Str">880ED758-8BE1-18D7-AD18-CA3F3D1ECE8E</Property>
 			</Item>
+			<Item Name="Resolve Names Test.lvtest" Type="TestItem" URL="../testing/Resolve Names Test.lvtest">
+				<Property Name="utf.test.bind" Type="Str">SystemLink Tag Module tests.lvlib:Resolve Names Test.vi</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">B06508A2-1482-34F9-D8F4-830E5E4030AD</Property>
+			</Item>
 		</Item>
 		<Item Name="SystemLink editor node.lvclass" Type="LVClass" URL="../editor node/SystemLink editor node.lvclass"/>
 		<Item Name="SystemLink configuration.lvclass" Type="LVClass" URL="../module/configuration/SystemLink configuration.lvclass"/>

@@ -71,6 +71,10 @@
 				<Property Name="utf.test.bind" Type="Str">SystemLink Tag Module tests.lvlib:Load Old Configurations.vi</Property>
 				<Property Name="utf.vector.test.bind" Type="Str">880ED758-8BE1-18D7-AD18-CA3F3D1ECE8E</Property>
 			</Item>
+			<Item Name="Resolve Names Test.lvtest" Type="TestItem" URL="../testing/Resolve Names Test.lvtest">
+				<Property Name="utf.test.bind" Type="Str">SystemLink Tag Module tests.lvlib:Resolve Names Test.vi</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">B06508A2-1482-34F9-D8F4-830E5E4030AD</Property>
+			</Item>
 		</Item>
 		<Item Name="SystemLink editor node.lvclass" Type="LVClass" URL="../editor node/SystemLink editor node.lvclass"/>
 		<Item Name="SystemLink configuration.lvclass" Type="LVClass" URL="../module/configuration/SystemLink configuration.lvclass"/>
@@ -229,6 +233,8 @@
 				<Item Name="NISE_CEF_HierarchyRepo.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/Configuration Framework/hierarchy repo/NISE_CEF_HierarchyRepo.lvclass"/>
 				<Item Name="sizeaction.ctl" Type="VI" URL="/&lt;vilib&gt;/event_ctls.llb/sizeaction.ctl"/>
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
+				<Item Name="System Directory Type.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/System Directory Type.ctl"/>
+				<Item Name="Get System Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/Get System Directory.vi"/>
 			</Item>
 			<Item Name="System.Windows.Forms" Type="Document" URL="System.Windows.Forms">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>

@@ -9,6 +9,12 @@ Read or write tag data to and from a configured [SystemLink](http://www.ni.com/p
 
 **SystemLink Tags:** Path to the SystemLink tag. If the tag does not already exist, it will be create during initialization.
 
+The SystemLink module also allows users to enter specific template literals within the **SystemLink Tags** which will be resolved during runtime initialization. These templates take the form of ${TEMPLATE}. The module currently allows the following templates.
+
+Template | Resolved Name
+---|---
+${MinionID} | The runtime system's Minion ID. If the Minion ID cannot be found, the Hostname will be used instead.
+
 **Direction:** Select whether the tag is being written to or read from the SystemLink Server.
 
 **Data Type:** The data type of the configured channel. SystemLink directly supports only a subset of all DCAF data types so the selected data type will correspond to data types within the SystemLink server as follows.
@@ -25,6 +31,10 @@ Timestamp | Timestamp
 > **Note:** All tags will be stored in the Tag Bus as the selected data type except for `Timestamp` which is stored in the Tag Bus as a double.
 
 **Tag:** The DCAF tag which the SystemLink channel will be mapped to.
+
+**Prepend Tag With Minion ID?:** If enabled, all **SystemLink Tags** paths will be prepended with the system's Minion ID during initialization. The full tag path will resolve to \<MinionID\>.\<SystemLinkTag\>
+
+If the system does not have a Minion ID, the Hostname will be used instead.
 
 ### Connection Configuration
 
